@@ -765,7 +765,7 @@ label {
 /* 7. Scedule */
 .recent-schedule {
 	position: relative;
-	background-image: url(../img/thindividers/1.png) ;
+	/*background-image: url(../img/thindividers/1.png) ;*/
 	background-position: center;
 	background-size: contain;
 	background-repeat: no-repeat;
