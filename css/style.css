@@ -1580,12 +1580,12 @@ label {
 
 
 /* 17. Brand */
-.single-brand {
-	text-align: center;
-}
-.single-brand img {
-	display: inline-block;
-}
+/*.single-brand {*/
+/*	text-align: center;*/
+/*}*/
+/*.single-brand img {*/
+/*	display: inline-block;*/
+/*}*/
 .slick-slide:focus {
 	outline: none;
 }
