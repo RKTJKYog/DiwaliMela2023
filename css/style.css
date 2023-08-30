@@ -260,6 +260,13 @@ label {
 }
 
 
+.ticket-btn  {
+			font-size: 14px;
+			color: white; 
+			letter-spacing: 1px;
+			
+			padding: 10px;
+		}
 
 /* 2. Header */
 .transparent-header {
@@ -1580,12 +1587,12 @@ label {
 
 
 /* 17. Brand */
-/*.single-brand {*/
-/*	text-align: center;*/
-/*}*/
-/*.single-brand img {*/
-/*	display: inline-block;*/
-/*}*/
+.single-brand {
+	text-align: center;
+}
+.single-brand img {
+	display: inline-block;
+}
 .slick-slide:focus {
 	outline: none;
 }
@@ -2049,6 +2056,11 @@ blockquote::before {
 	margin-top: 10px;
 	border-radius: 0px;
 	padding: 18px 40px;
+}
+
+#space {
+
+	line-height: 1.5;
 }
 
 
