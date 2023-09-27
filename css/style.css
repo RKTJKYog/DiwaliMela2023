@@ -2383,6 +2383,11 @@ $duration: 30s;
 
 }
 
+@media only screen and (max-width: 600px) {
+	html {
+	  width:fit-content;
+	}
+  }
 
 
 body { padding-bottom: 5rem; }
